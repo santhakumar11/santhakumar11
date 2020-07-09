@@ -1,5 +1,3 @@
-<b>Santha<b> 
-
 Hey, I am  Santhakumar Munuswamy - Chapter Lead at RNTBCI
 
 - 🔭 I’m currently working on Microsoft Stack - C# | APIs | Azure | .NET Core
