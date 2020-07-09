@@ -1,4 +1,7 @@
-### Hi there 👋
+
+Hey, I am  Santhakumar Munuswamy
+
+- 🔭 I’m currently working on Microsoft Stack - C# | APIs | Azure | .NET Core
 
 <!--
 **santhakumar11/santhakumar11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
