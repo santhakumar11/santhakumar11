@@ -1,4 +1,13 @@
-Hey, I am  Santhakumar Munuswamy - Chapter Lead at RNTBCI
+<h2>👋 Hello, I'm  Santha Kumar Munuswamy</h2> 
+
+<h3>🚀 Architect | Agentic AI & GenAI | .NET & Power Platform | PLM - ARAS, SBM, Team Center ITK</h3>
+
+📍 Chennai, India
+📧 Email: msanthakumara@gmail.com
+🔗 LinkedIn: @santhakumarmunuswamy
+👨‍💻 GitHub: @santhakumar11
+📝 Blog: san2debug.net
+
 
 - 🔭 I’m currently working on Microsoft Stack - C# | APIs | Azure | .NET Core
 - 🌱 I’m currently learning on AI
