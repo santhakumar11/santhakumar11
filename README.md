@@ -17,6 +17,11 @@
   👉 Designing <strong> cloud architectures and deploying applications </strong> across public and hybrid cloud environments. <br/>
 </ul>
 <hr/>
+<h3>🌟 Professional Highlights </h3>
+<ul> <strong> Chapter Leader  → .NET, GenAI/Copilot, Power Platform </strong> – Renault Group India (2020 – Present) </ul>
+
+
+<h3> 🎓 Education </h3>
 - 🔭 I’m currently working on Microsoft Stack - C# | APIs | Azure | .NET Core
 - 🌱 I’m currently learning on AI
 - 💬 Ask me about .NET, Azure
