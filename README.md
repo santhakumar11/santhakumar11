@@ -1,6 +1,6 @@
 <h2>👋 Hello, I'm  Santha Kumar Munuswamy</h2> 
 
-<h3>🚀 Architect | Agentic AI & GenAI | .NET & Power Platform | PLM - ARAS, SBM, Team Center ITK</h3>
+<h3>🚀 Architect | Agentic AI & GenAI | .NET & Power Platform | Cloud & PLM Solution</h3>
 
 📍 Chennai, India </br>
 📧 Email: msanthakumara@gmail.com </br>
@@ -10,8 +10,12 @@
 <hr/>
 
 <h3>🌐 About Me</h3>
-<p>I am a <strong>Chapter Leader</strong> with over 18 years of experience, specializing in <strong> Agentic AI, Generative AI, .NET technologies, </strong> and  <strong>PLM solutions</strong> such as ARAS, SBM, and Teamcenter ITK.</p>
-
+<p>I am a <strong>Chapter Leader</strong> with over 18 years of experience, specializing in <strong> Agentic AI, Generative AI, .NET technologies, Cloud </strong> and  <strong>PLM solution</strong> such as ARAS, SBM, and Teamcenter ITK.</p>
+<ul>
+  👉 Designing  <strong>Agentic AI solutions </strong> using Copilot Studio and deploying agents across multiple platforms. <br/>
+  👉 Expertise in <strong> .NET architecture and migration </strong> for tool development and modern web application development. <br/>
+  👉 Designing <strong> cloud architectures and deploying applications </strong> across public and hybrid cloud environments. <br/>
+</ul>
 <hr/>
 - 🔭 I’m currently working on Microsoft Stack - C# | APIs | Azure | .NET Core
 - 🌱 I’m currently learning on AI
