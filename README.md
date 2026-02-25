@@ -9,6 +9,10 @@
 📝 Blog: <a href="https://santhakumar.dev/">santhakumar.dev</a> </br>
 <hr/>
 
+<h3>🌐 About Me</h3>
+<p>I am a Chapter Leader with over 18 years of experience, specializing in Agentic AI, Generative AI, .NET technologies, and PLM solutions such as ARAS, SBM, and Teamcenter ITK.</p>
+
+<hr/>
 - 🔭 I’m currently working on Microsoft Stack - C# | APIs | Azure | .NET Core
 - 🌱 I’m currently learning on AI
 - 💬 Ask me about .NET, Azure
