@@ -10,7 +10,7 @@
 <hr/>
 
 <h3>🌐 About Me</h3>
-<p>I am a Chapter Leader with over 18 years of experience, specializing in Agentic AI, Generative AI, .NET technologies, and PLM solutions such as ARAS, SBM, and Teamcenter ITK.</p>
+<p>I am a <strong>Chapter Leader</strong> with over 18 years of experience, specializing in <strong> Agentic AI, Generative AI, .NET technologies, </strong> and  <strong>PLM solutions</strong> such as ARAS, SBM, and Teamcenter ITK.</p>
 
 <hr/>
 - 🔭 I’m currently working on Microsoft Stack - C# | APIs | Azure | .NET Core
