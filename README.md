@@ -2,11 +2,11 @@
 
 <h3>🚀 Architect | Agentic AI & GenAI | .NET & Power Platform | PLM - ARAS, SBM, Team Center ITK</h3>
 
-📍 Chennai, India
-📧 Email: msanthakumara@gmail.com
-🔗 LinkedIn: @santhakumarmunuswamy
-👨‍💻 GitHub: @santhakumar11
-📝 Blog: san2debug.net
+📍 Chennai, India </br>
+📧 Email: msanthakumara@gmail.com </br>
+🔗 LinkedIn: @santhakumarmunuswamy </br>
+👨‍💻 GitHub: @santhakumar11  </br> 
+📝 Blog: san2debug.net  </br>
 
 
 - 🔭 I’m currently working on Microsoft Stack - C# | APIs | Azure | .NET Core
