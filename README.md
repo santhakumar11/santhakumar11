@@ -4,9 +4,9 @@
 
 📍 Chennai, India </br>
 📧 Email: msanthakumara@gmail.com </br>
-🔗 LinkedIn: @santhakumarmunuswamy </br>
-👨‍💻 GitHub: @santhakumar11  </br> 
-📝 Blog: san2debug.net  </br>
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/santhakumarmunuswamy/">santhakumarmunuswamy</a> </br>
+👨‍💻 GitHub: <a href="https://github.com/santhakumar11">santhakumar11</a> </br> 
+📝 Blog: <a href="https://santhakumar.dev/">santhakumar.dev</a> </br>
 
 
 - 🔭 I’m currently working on Microsoft Stack - C# | APIs | Azure | .NET Core
