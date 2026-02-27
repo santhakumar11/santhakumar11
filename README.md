@@ -9,7 +9,7 @@
 📝 Blog: <a href="https://santhakumar.dev/">santhakumar.dev</a> </br>
 <hr/>
 
-<h3>🌐 About Me</h3>
+<h3>🎯 About Me</h3>
 <p>I am a <strong>Chapter Leader</strong> with over 18 years of experience, specializing in <strong> Agentic AI, Generative AI, .NET technologies, Cloud </strong> and  <strong>PLM solution</strong> such as ARAS, SBM, and Teamcenter ITK.</p>
 <ul>
   👉 Designing  <strong>Agentic AI solutions </strong> using Copilot Studio and deploying agents across multiple platforms. <br/>
