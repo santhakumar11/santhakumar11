@@ -20,9 +20,8 @@
 <h3>🌟 Professional Highlights </h3>
 <ul> <strong> Chapter Leader  → .NET, GenAI/Copilot, Power Platform </strong> – Renault Group India (2020 – Present) </ul>
 <hr/>
-
 <h3> 🎓 Education </h3>
-<ul> <Strong> M.B.A in General Management & Marketing Management </Strong> – Madras Institute of Technology (2021 – 2023) </ul>
+<ul> <Strong> M.B.A in General Management & Marketing Management </Strong> – Alagappa University (2021 – 2023) </ul>
 <ul> <Strong> M.Sc. in Informattion Technology </Strong> – Madras University (2000 – 2021) </ul>
 <hr/>
 <!--
