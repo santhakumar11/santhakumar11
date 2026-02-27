@@ -1,4 +1,4 @@
-<h2>👋 Hello, I'm  Santha Kumar Munuswamy</h2> 
+<h2>👋 Hello, I'm  Santha Kumar </h2> 
 
 <h3>🚀 Architect | Agentic AI & GenAI | .NET & Power Platform | Cloud & PLM Solution</h3>
 
